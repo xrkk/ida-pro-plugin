@@ -1,0 +1,3 @@
+[submodule "binary/SimplifyGraph"]
+	path = binary/SimplifyGraph
+	url = https://github.com/fireeye/SimplifyGraph
