@@ -1,3 +1,12 @@
 [submodule "binary/SimplifyGraph"]
 	path = binary/SimplifyGraph
 	url = https://github.com/fireeye/SimplifyGraph
+[submodule "idapython/keypatch"]
+	path = idapython/keypatch
+	url = https://github.com/keystone-engine/keypatch
+[submodule "idapython/vt-ida-plugin"]
+	path = idapython/vt-ida-plugin
+	url = https://github.com/VirusTotal/vt-ida-plugin
+[submodule "idapython/IDASkins"]
+	path = idapython/IDASkins
+	url = https://github.com/zyantific/IDASkins

@@ -1,0 +1,1 @@
+# 出现在 `plugins.list` 文件中, 以插件的形式在IDA启动时自动加载的插件(IDAPython脚本)
